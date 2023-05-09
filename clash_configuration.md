@@ -1,2 +1,2 @@
 # Clash for Windows
-1.Access the website: `https://github.com/Fndroid/clash_for_windows_pkg`
+https://docs.neobook.co/windows/clash-for-windows-pei-zhi-jiao-cheng
