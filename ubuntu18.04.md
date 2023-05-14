@@ -19,3 +19,4 @@ apt-get update 更新下载软件的索引
 
 安装vim apt-get install vim 
 输入vim验证是否安装完成 :q退出
+
